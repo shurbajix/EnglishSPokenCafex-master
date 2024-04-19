@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447928764227",
+    "project_id": "english-spoken-cafe-dfe82",
+    "storage_bucket": "english-spoken-cafe-dfe82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447928764227:android:3b210f536a34e7bf9851f6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447928764227-t426pq4pr1uespfg14b8du7m04plc9p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIec2OOSkJ_vHTpc_xuRaJuowEtq2XoYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447928764227-t426pq4pr1uespfg14b8du7m04plc9p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

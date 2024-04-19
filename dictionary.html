@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Add your custom CSS styles here */
+    </style>
+</head>
+<body>
+    <input type="text" id="searchInput" placeholder="Enter a word">
+    <div id="definition"></div>
+    <script>
+        // Add your custom JavaScript code here
+        document.getElementById('searchInput').addEventListener('keyup', function(event) {
+            if (event.key === 'Enter') {
+                searchDefinition();
+            }
+        });
+
+        function searchDefinition() {
+            var word = document.getElementById('searchInput').value;
+            // Use JavaScript to fetch the definition from the dictionary dataset
+            // and update the 'definition' div with the retrieved definition.
+        }
+    </script>
+</body>
+</html>
